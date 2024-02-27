@@ -1,0 +1,81 @@
+theme:
+  default: auto # style-light style-dark
+footer:
+  powered:
+    enable: false
+  beian:
+    enable: true
+    icp: 京ICP备2024049586号
+  copyrightYear: 2024
+favicon:
+  logo: /images/avatar.png
+  icon16: /images/avatar.png
+  icon32: /images/avatar.png
+  appleTouchIcon: 
+  webmanifest: 
+  visibilitychange: false
+  hidden: failure.ico
+  showText: (/≧▽≦/)咦！又好了！
+  hideText: (●—●)喔哟，崩溃啦！
+top_bars:
+  - title: menu.home
+    url: /
+  - title: menu.archives
+    url: /archives/
+  - title: menu.about
+    url: /about/
+sidebar:
+  typedTextPrefix: I`m
+  typedText: ["Web Developer"]
+  social:
+    - name: Github
+      icon: fab fa-github
+      url: https://github.com/neuqzxy
+    - name: weibo
+      icon: fab fa-weibo
+      url: https://weibo.com/
+    - name: facebook
+      icon: fab fa-facebook
+      url: https://weibo.com/
+    - name: linkedin
+      icon: fab fa-linkedin
+      url: https://weibo.com/
+  info:
+    - key: From
+      val: Beijing
+    - key: age
+      val: 18
+user:
+  name: 欣仔
+  first_name: 博客
+  last_name: 欣仔的
+  email: zhouxinyu12138@gmail.com
+  domain: http://blog.xinzai.home
+  avatar: /images/avatar.png
+  describe: 欣仔的博客站点。记录，分享，回顾
+  # ruleText: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。
+banner:
+  use_cover: false
+  default:
+    type: video
+    bgurl: /images/banner.mov
+    bannerText: Hi my new friend!
+    position: top
+    fit: cover
+  index:
+    bannerTitle: 天行健，君子以自强不息<br>地势坤，君子以厚德载物。
+    bannerText: Hi my new friend!
+    videoUrl: 
+  archive:
+    bannerTitle: 只在此山中，<br>云深不知处。
+    bannerText: The article archive
+  about:
+    bannerTitle: 醉翁之意不在酒，<br>在乎山水之间也。
+    bannerText: About me
+categorie_card:
+  enable: true
+  len: 2
+  list: ["分类1", "分类2"]
+rightside:
+  readmode: true
+  aside: true
