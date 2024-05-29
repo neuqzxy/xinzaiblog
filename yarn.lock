@@ -706,10 +706,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-async@^2.1.9:
-  version "2.1.11"
-  resolved "https://registry.yarnpkg.com/hexo-theme-async/-/hexo-theme-async-2.1.11.tgz#92a9f0beb573928367f83acee92f24f112296c1c"
-  integrity sha512-j5UA6JhQLq/A7rm30CrPSnZC5GXLEEMR1ObcnmPvACdgByKyUCnPTl57bqVGHG4rrOODAJ03qqoImWu2fueEBg==
+hexo-theme-async@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/hexo-theme-async/-/hexo-theme-async-2.2.1.tgz#d5e71eafcdabbf80f68f2371a5704f01e801beb0"
+  integrity sha512-tXgCJ/Fqn37XHwRTPNHYuxoAy9zbg97hXo6pD//A5KGuxJU5Wbok1h4hraXh7KUvksSL9QSXvgfmWwgpOEK0Vg==
 
 hexo-theme-landscape@^1.0.0:
   version "1.0.0"
